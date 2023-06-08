@@ -1,0 +1,27 @@
+﻿#TagBegin=
+#TagEnd=
+#CommentBegin1=
+#CommentEnd1=
+#LineComment1=
+#CommentBegin2=
+#CommentEnd2=
+#LineComment2=
+#SpecialSyntax=None
+#ScriptBegin=
+#ScriptEnd=
+#QuoteSingle=False
+#QuoteDouble=False
+#QuoteContinue=False
+#EscapeCharacter=
+
+#Word Color=0, WholeWord=True, RightSide=False, RightAll=False, MatchCase=True, InsideTag=False, RegEx=False
+Host
+HostName
+User
+Port
+Compression
+ForwardX11
+IdentityFile
+LogLevel
+ServerAliveCountMax
+ServerAliveInterval
