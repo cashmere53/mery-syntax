@@ -2,7 +2,7 @@
 #TagEnd=
 #CommentBegin1=
 #CommentEnd1=
-#LineComment1=
+#LineComment1=#
 #CommentBegin2=
 #CommentEnd2=
 #LineComment2=
@@ -10,6 +10,9 @@
 #ScriptBegin=
 #ScriptEnd=
 #QuoteSingle=False
-#QuoteDouble=False
+#QuoteDouble=True
 #QuoteContinue=False
 #EscapeCharacter=
+
+#Word Color=0, WholeWord=False, RightSide=False, RightAll=False, MatchCase=False, InsideTag=False, RegEx=True
+\[[\w\.]+\]
